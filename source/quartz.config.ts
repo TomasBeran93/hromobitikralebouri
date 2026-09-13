@@ -8,8 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "⚡Hromobití
-      Krále Bouří",
+    pageTitle: "⚡Hromobití"<br>"Krále Bouří",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
