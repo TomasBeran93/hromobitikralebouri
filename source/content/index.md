@@ -1,1 +1,1 @@
-<img url="https://tomasberan93.github.io/hromobitikralebouri/Hromobiti_logo.png" width=600px>
+<img src="https://tomasberan93.github.io/hromobitikralebouri/Hromobiti_logo.png" width=600>
